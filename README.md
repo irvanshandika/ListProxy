@@ -12,32 +12,5 @@ Contoh:
 ```
 203.194.112.119,2053,ID,CV. Rumahweb Indonesia
 ```
-
-## Statistik Server Proxy Berdasarkan Negara
-Berikut adalah jumlah server proxy yang tersedia dari masing-masing negara di file `ListProxy.txt`:
-
-| Negara | Kode | Jumlah Server |
-|--------|------|---------------|
-| Indonesia | ID | 13 |
-| Jerman | DE | 10 |
-| Belanda | NL | 10 |
-| Swedia | SE | 9 |
-| Amerika Serikat | US | 9 |
-| Korea Selatan | KR | 7 |
-| Prancis | FR | 5 |
-| Hong Kong | HK | 2 |
-| Brasil | BR | 2 |
-| Latvia | LV | 2 |
-| Polandia | PL | 2 |
-| Rusia | RU | 3 |
-| Inggris | GB | 3 |
-| Finlandia | FI | 1 |
-| Austria | AT | 1 |
-| Singapura | SG | 1 |
-
-_Total server proxy: 80_
-
-> Statistik di atas dihitung berdasarkan data yang ada pada file `ListProxy.txt` per 29 Agustus 2025.
-
 ## Lisensi
 Lihat file `LICENSE` untuk informasi lisensi proyek ini.
