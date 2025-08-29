@@ -1132,12 +1132,6 @@ let baseHTML = `
                 Clash
               </button>
               <button
-                onclick="copyToClipboardAsTarget('sfa')"
-                class="basis-1/2 p-2 rounded-full bg-amber-400 flex justify-center items-center"
-              >
-                SFA
-              </button>
-              <button
                 onclick="copyToClipboardAsTarget('bfr')"
                 class="basis-1/2 p-2 rounded-full bg-amber-400 flex justify-center items-center"
               >
