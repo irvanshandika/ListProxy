@@ -8903,3 +8903,6 @@
 103.98.149.96,58904,VN,Maxserver Company
 152.32.255.24,587,VN,Ucloud Information Technology Hk
 103.15.90.134,49678,VN,Vietnam Posts And Telecommunications Group
+20.247.137.183,443,SG,Microsoft Corporation
+104.43.91.69,443,SG,Microsoft Corporation
+35.185.54.229,27205,US,Google LLC
