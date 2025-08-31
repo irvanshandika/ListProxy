@@ -8912,5 +8912,5 @@
 43.218.77.16,443,ID,Amazon.com, Inc.
 203.194.112.119,2053,ID,CV. Rumahweb Indonesia
 203.194.112.119,8443,ID,CV. Rumahweb Indonesia
-149.129.250.8,443,ID,21/F, Ciputra World 1 (DBS Tower), JalanProf. DR. Satrio Kav 3-5, Jakarta 12940, Indonesia
+149.129.250.8,443,ID,21/F Ciputra World 1 (DBS Tower)
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
