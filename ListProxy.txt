@@ -73,7 +73,11 @@
 206.84.101.83,8443,ID,PT MITRA VISIONER
 128.199.125.131,433,SG,Digitalocean, LLC
 43.218.77.16,1443,ID,Amazon.com, Inc.
+203.194.112.119,8443,ID,CV. Rumahweb Indonesia
 172.232.239.151,587,ID,Linode
+203.194.112.119,2053,ID,CV. Rumahweb Indonesia
+36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
+103.6.207.108,8080,ID,PT Pusat Media Indonesia
 43.218.77.16,443,ID,Amazon.com, Inc.
 172.232.239.151,587,ID,Akamai Connected Cloud
 203.194.112.119,8443,ID,First Cagayan Converge Data Center Inc.
@@ -283,6 +287,7 @@
 78.153.130.94,54402,AT,Aeza International
 212.113.106.234,2053,AT,Aeza International
 193.233.233.75,8443,AT,Aeza International
+77.73.131.77,2053,AT,Aeza International
 85.192.42.127,8443,AT,Aeza International
 94.228.169.194,2053,AT,Aeza International
 147.45.41.12,2053,AT,Aeza International
@@ -369,6 +374,7 @@
 144.22.144.168,4242,BR,Oracle Cloud
 216.238.108.127,443,BR,Vultr
 168.138.141.235,2053,BR,Oracle Cloud
+144.22.204.102,50317,BR,Oracle Cloud
 146.235.59.153,8443,BR,Oracle Cloud
 146.235.59.153,2053,BR,Oracle Cloud
 164.152.61.166,50478,BR,Oracle Cloud
@@ -657,6 +663,7 @@
 195.201.37.216,443,DE,Hetzner Online
 128.140.86.164,2053,DE,Hetzner Online
 167.235.134.123,443,DE,Hetzner Online
+168.119.247.199,2096,DE,Hetzner Online
 128.140.86.164,8880,DE,Hetzner Online
 195.201.37.216,2086,DE,Hetzner Online
 168.119.247.199,2052,DE,Hetzner Online
@@ -818,6 +825,7 @@
 5.61.46.96,443,DE,Leaseweb Germany
 5.61.39.183,443,DE,Leaseweb Germany
 45.157.233.83,2087,DE,dataforest
+37.1.199.185,443,DE,Leaseweb Germany
 37.1.194.7,443,DE,Leaseweb Germany
 185.254.97.221,3106,DE,dataforest
 37.1.195.124,443,DE,Leaseweb Germany
@@ -1109,6 +1117,7 @@
 139.162.145.35,8443,DE,Akamai Connected Cloud
 139.59.152.149,2053,DE,Digital Ocean
 141.147.47.32,2053,DE,Oracle Cloud
+139.59.152.149,8443,DE,Digital Ocean
 141.95.17.10,2053,DE,OVHcloud
 141.95.17.10,8443,DE,OVHcloud
 142.132.178.99,443,DE,Hetzner Online
@@ -1481,6 +1490,7 @@
 77.81.138.215,2053,DE,OVHcloud
 77.91.73.147,8443,DE,Stark Industries Solutions
 77.81.138.48,2053,DE,OVHcloud
+77.81.138.93,2053,DE,OVHcloud
 77.91.73.147,2053,DE,Stark Industries Solutions
 78.47.52.88,2096,DE,Hetzner Online
 79.137.202.170,8443,DE,Aeza International
@@ -2157,6 +2167,7 @@
 95.216.217.156,443,FI,Cloudflare Warp
 95.216.215.126,2053,FI,Hetzner Online
 95.216.214.121,1019,FI,Hetzner Online
+95.216.215.126,8443,FI,Hetzner Online
 95.217.182.70,8443,FI,Hetzner Online
 95.216.217.156,8080,FI,Cloudflare Warp
 95.216.214.135,2095,FI,Hetzner Online
@@ -2553,6 +2564,7 @@
 51.83.172.96,443,FR,OVHcloud
 51.83.189.185,2053,FR,OVHcloud
 188.165.168.217,2083,FR,OVHcloud
+45.32.149.77,8443,FR,Vultr
 54.37.142.115,2053,FR,OVHcloud
 54.37.142.115,8443,FR,OVHcloud
 38.180.62.4,443,FR,M247 Europe
@@ -3099,6 +3111,7 @@
 103.102.231.211,2053,FR,OVHcloud
 103.102.231.21,2053,FR,OVHcloud
 103.102.231.233,2053,FR,OVHcloud
+103.102.231.215,2053,FR,OVHcloud
 103.102.231.218,2053,FR,OVHcloud
 103.102.231.23,2053,FR,OVHcloud
 103.102.231.232,2053,FR,OVHcloud
@@ -3457,6 +3470,7 @@
 198.244.248.172,8443,GB,OVHcloud
 198.244.249.22,2053,GB,OVHcloud
 34.105.233.161,443,GB,Google Cloud
+198.244.249.22,8443,GB,OVHcloud
 198.244.248.172,2053,GB,OVHcloud
 213.165.84.57,443,GB,1&1 Internet AG
 34.105.130.188,443,GB,Google Cloud
@@ -3615,6 +3629,7 @@
 95.164.88.214,2055,GB,PQ HOSTING S.R.L
 95.164.88.214,2054,GB,PQ HOSTING S.R.L
 172.82.16.38,31005,GB,Olink-cloud
+172.82.16.38,27053,GB,Olink-cloud
 5.144.181.122,2053,GB,OVHcloud
 185.126.225.58,443,GB,Datacamp
 45.14.244.216,2061,GB,Garant-G Ltd.
@@ -3825,6 +3840,10 @@
 95.164.23.71,443,HU,Stark Industries Solutions
 77.91.72.82,443,HU,Stark Industries Solutions
 35.219.50.99,443,ID,Google Cloud
+43.218.77.16,1443,ID,Amazon.com
+203.194.112.119,8443,ID,First Cagayan Converge Data Center Inc.
+172.232.239.151,587,ID,Akamai Connected Cloud
+203.194.112.119,2053,ID,First Cagayan Converge Data Center Inc.
 40.113.60.248,2053,IE,Microsoft Azure
 40.113.60.248,8443,IE,Microsoft Azure
 34.253.234.62,443,IE,Amazon.com
@@ -4712,6 +4731,7 @@
 175.198.169.39,12502,KR,KT
 175.195.201.211,39166,KR,KT
 175.195.201.211,22211,KR,KT
+175.198.169.39,24944,KR,KT
 175.203.94.155,19490,KR,KT
 175.203.94.155,30056,KR,KT
 175.203.94.155,10931,KR,KT
@@ -4890,6 +4910,7 @@
 59.0.66.191,27051,KR,KT
 59.11.31.107,11758,KR,KT
 59.11.31.107,30906,KR,KT
+59.11.31.107,34637,KR,KT
 59.11.31.107,31269,KR,KT
 59.12.130.171,13851,KR,KT
 59.14.189.65,29707,KR,KT
@@ -5135,6 +5156,7 @@
 5.34.209.189,8443,LV,Sia Veesp
 5.34.208.44,2053,LV,Sia Veesp
 5.34.209.105,8443,LV,Sia Veesp
+5.34.209.18,8443,LV,Sia Veesp
 5.34.209.231,2053,LV,Sia Veesp
 5.34.210.151,2053,LV,Sia Veesp
 5.34.209.203,2053,LV,Sia Veesp
@@ -5415,6 +5437,7 @@
 79.137.204.24,8443,NL,Aeza International
 79.137.195.157,443,NL,Aeza International
 79.137.205.11,443,NL,Aeza International
+85.192.40.246,80,NL,Aeza International
 85.192.40.16,2053,NL,Aeza International
 85.192.29.4,443,NL,Aeza International
 85.192.40.6,443,NL,Aeza International
@@ -5572,6 +5595,7 @@
 89.110.115.110,8443,NL,Servers Tech Fzco
 77.238.226.178,443,NL,Servers Tech Fzco
 212.34.151.174,443,NL,Servers Tech Fzco
+109.107.164.231,443,NL,Servers Tech Fzco
 109.107.166.33,443,NL,Servers Tech Fzco
 37.48.90.120,443,NL,LeaseWeb Netherlands B.V.
 89.110.84.203,443,NL,Servers Tech Fzco
@@ -5722,6 +5746,7 @@
 89.110.100.110,443,NL,Servers Tech Fzco
 109.107.167.104,443,NL,Servers Tech Fzco
 194.146.38.48,443,NL,Kamatera Inc
+195.200.17.63,443,NL,Servers Tech Fzco
 185.235.128.228,443,NL,Podaon SIA
 178.208.77.253,443,NL,Iron Hosting Centre
 38.180.96.139,443,NL,Scalaxy
@@ -5831,6 +5856,7 @@
 77.238.250.71,8443,NL,Servers Tech Fzco
 212.86.115.27,443,NL,Podaon SIA
 45.128.232.62,443,NL,Individual Entrepreneur Anton Levin
+2.59.38.46,443,NL,DataWeb Global Group
 82.115.6.83,443,NL,Sia Veesp
 193.109.69.48,443,NL,Hostkey
 5.35.37.253,8080,NL,Servers Tech Fzco
@@ -5883,6 +5909,7 @@
 77.238.247.131,443,NL,Servers Tech Fzco
 89.110.69.27,443,NL,Servers Tech Fzco
 93.183.124.199,443,NL,Servers Tech Fzco
+89.110.110.157,443,NL,Servers Tech Fzco
 109.107.167.183,443,NL,Servers Tech Fzco
 89.110.77.192,443,NL,Servers Tech Fzco
 93.183.88.193,443,NL,Servers Tech Fzco
@@ -6041,6 +6068,7 @@
 109.107.185.220,2096,NL,Servers Tech Fzco
 109.107.185.233,8443,NL,Servers Tech Fzco
 109.107.174.65,8443,NL,Servers Tech Fzco
+109.120.154.233,9995,NL,Iron Hosting Centre
 109.107.185.44,2053,NL,Servers Tech Fzco
 109.107.185.220,2053,NL,Servers Tech Fzco
 109.234.34.136,443,NL,Servers Tech Fzco
@@ -6158,6 +6186,7 @@
 5.255.120.214,8443,NL,The Infrastructure Group
 5.35.47.69,8443,NL,Servers Tech Fzco
 5.35.47.69,2053,NL,Servers Tech Fzco
+46.30.43.144,2053,NL,Iron Hosting Centre
 5.101.44.139,443,NL,Llhost
 5.39.220.208,8443,NL,Hostkey
 5.45.71.98,443,NL,Scalaxy
@@ -6322,6 +6351,7 @@
 37.252.6.119,443,PL,Artnet Sp. z o.o.
 31.133.0.55,2053,PL,HosTeam
 31.133.0.55,8443,PL,HosTeam
+86.110.56.121,2053,PL,OVHcloud
 81.200.154.2,2053,PL,TimeWeb
 86.110.56.245,2053,PL,OVHcloud
 145.239.88.255,2053,PL,OVHcloud
@@ -6986,6 +7016,7 @@
 176.97.77.76,443,SE,M247 Europe
 188.93.140.11,443,SE,HostHatch
 89.22.232.86,443,SE,VDSina.com
+185.139.228.126,443,SE,Kamatera Inc
 77.91.85.4,443,SE,Aeza International
 92.246.137.72,443,SE,Aeza International
 46.226.164.147,443,SE,Aeza International
@@ -7069,6 +7100,7 @@
 147.45.74.29,8443,SE,Aeza International
 147.45.75.23,2053,SE,Aeza International
 147.45.75.23,8443,SE,Aeza International
+147.45.75.11,2053,SE,Aeza International
 147.45.76.158,8443,SE,Aeza International
 147.45.75.211,47995,SE,Aeza International
 147.45.76.158,2053,SE,Aeza International
@@ -7299,6 +7331,7 @@
 77.91.87.95,29838,SE,Aeza International
 80.252.216.254,443,SE,InfraCom Managed Services AB
 89.169.32.114,2053,SE,Aeza International
+89.169.32.117,2053,SE,Aeza International
 89.22.224.221,2053,SE,Aeza International
 89.22.224.54,8443,SE,Aeza International
 89.169.35.124,2053,SE,Aeza International
@@ -7401,6 +7434,7 @@
 94.228.163.103,2053,SE,Aeza International
 92.246.137.219,2053,SE,Aeza International
 94.131.115.109,2053,SE,Stark Industries Solutions
+94.228.163.103,8443,SE,Aeza International
 92.246.137.86,8443,SE,Aeza International
 94.228.164.106,8443,SE,Aeza International
 94.228.164.106,2053,SE,Aeza International
@@ -7491,10 +7525,12 @@
 8.219.59.132,48130,SG,Alibaba
 163.47.9.27,2053,SG,Digital Ocean
 43.156.97.73,57145,SG,Tencent cloud computing
+91.192.81.154,2053,SG,Melbikomas UAB
 163.47.9.27,8443,SG,Digital Ocean
 83.142.30.5,2096,SG,Streamline Servers
 129.150.62.1,24016,SG,Oracle Cloud
 138.2.91.98,9711,SG,Oracle Cloud
+97.74.82.87,45837,SG,GoDaddy.com, LLC
 68.183.179.5,8443,SG,Digital Ocean
 47.236.86.17,49257,SG,Alibaba
 43.156.26.205,23654,SG,Tencent cloud computing
@@ -7566,6 +7602,7 @@
 8.222.165.104,443,SG,Alibaba
 83.142.30.4,2096,SG,Streamline Servers
 8.222.178.214,6666,SG,Alibaba
+91.192.81.154,8443,SG,Melbikomas UAB
 13.250.131.37,443,SG,Amazon.com
 154.91.84.10,8443,SG,TERAEXCH
 45.87.103.154,57012,SG,Amazon.com
@@ -8192,6 +8229,7 @@
 38.76.145.180,443,US,NetLab
 38.22.233.150,443,US,NetLab
 38.76.145.169,443,US,NetLab
+38.22.233.225,443,US,NetLab
 38.22.233.232,443,US,NetLab
 209.146.100.10,13379,US,NetLab
 38.22.233.228,443,US,NetLab
@@ -8854,6 +8892,7 @@
 5.180.30.249,443,US,Stark Industries Solutions
 5.180.30.249,8443,US,Stark Industries Solutions
 45.8.146.85,23352,US,PQ HOSTING S.R.L
+103.170.72.120,27013,US,Beijing Fengniao Network Technology Co.
 5.180.30.249,2096,US,Stark Industries Solutions
 104.236.65.156,443,US,Digital Ocean
 107.172.103.195,16070,US,ColoCrossing
@@ -8868,4 +8907,10 @@
 104.43.91.69,443,SG,Microsoft Corporation
 35.185.54.229,27205,US,Google LLC
 45.32.124.255,443,SG,The Constant Company
+36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
+43.218.77.16,1443,ID,Amazon.com, Inc.
+43.218.77.16,443,ID,Amazon.com, Inc.
+203.194.112.119,2053,ID,CV. Rumahweb Indonesia
+203.194.112.119,8443,ID,CV. Rumahweb Indonesia
 149.129.250.8,443,ID,21/F, Ciputra World 1 (DBS Tower), JalanProf. DR. Satrio Kav 3-5, Jakarta 12940, Indonesia
+103.6.207.108,8080,ID,PT Pusat Media Indonesia
