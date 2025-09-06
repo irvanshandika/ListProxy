@@ -8914,3 +8914,5 @@
 203.194.112.119,8443,ID,CV. Rumahweb Indonesia
 149.129.250.8,443,ID,21/F Ciputra World 1 (DBS Tower)
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
+103.154.52.6,1111,ID,PT Inditech Global
+103.136.171.165,8080,ID,PT Fiber Network
